@@ -4,7 +4,14 @@ EstimateClonality is an R package which uses read count and copy number informat
 
 https://bitbucket.org/nmcgranahan/pancancerclonality/src/master/
 
-This version fixes some issues in the original code and makes a little optimization.
+This version fixes some issues in the original code.
+
+## Install
+
+```
+install.packages('devtools')
+devtools::install_github('wenchuanxie/EstimateClonality')
+```
 
 ## Major changes
 

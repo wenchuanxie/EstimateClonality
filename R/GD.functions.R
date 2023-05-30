@@ -23,7 +23,7 @@
 #' occured at some point during the evolutionary history of a tumour.
 #' @details 
 #' According to the code of clonality.estimation(), "val" means "cn".
-#' @return
+#' @return 
 #' @export
 #'
 #' @examples

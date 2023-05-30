@@ -6,6 +6,17 @@
 # source("~/Work/GD.functions.R")
 # source("~/Work/STM_final_scripts/main.functions.r")
 
+#' clonality.estimation
+#'
+#' @param mutation.table.loc 
+#' @param seg.mat.loc 
+#' @param data.type
+#' @param TCGA.barcode
+#' @param ANALYSIS.DIR
+#'
+#' @return 
+
+
 suppressPackageStartupMessages(library(gdata))
 suppressPackageStartupMessages(library(limma))
 suppressPackageStartupMessages(library(sequenza))

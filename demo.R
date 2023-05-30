@@ -1,7 +1,8 @@
 
 
-install.packages("../sequenza_3.0.0.tar.gz",repos=NULL,type='source')
-install.packages("../EstimateClonality_1.0.tar.gz",repos=NULL,type='source')
+# devtools::install_github('wenchuanxie/EstimateClonality')
+# install.packages("../sequenza_3.0.0.tar.gz",repos=NULL,type='source')
+install.packages("../STM_data/Estimate_Clonality_Package/EstimateClonality_1.0.tar.gz",repos=NULL,type='source')
 
 library(sequenza) # 3.0
 library(EstimateClonality) # 1.0

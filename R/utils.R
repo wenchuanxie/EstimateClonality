@@ -6,7 +6,7 @@
 #' @return A == B: "identical"; A < B: "missing"; A > B: "extra"; as well as "other".
 #' @export
 #'
-#' @examples
+#' @examples 
 #' 
 #' check_chromosomal_names(input_chrom = LETTERS[1:5], target_chrom = LETTERS[1:26])
 #' check_chromosomal_names(input_chrom = LETTERS[1:9], target_chrom = LETTERS[1:9])
